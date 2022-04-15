@@ -1,5 +1,4 @@
 # JobScraper
-Python web scraping job information from indeed.
 
 Utilizing the Beautiful Soup and Pandas libraries we can easily scrape job information
 for any job on indeed by parsing and searching through the html data.
